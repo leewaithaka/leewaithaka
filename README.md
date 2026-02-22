@@ -1,6 +1,6 @@
 # Hi, I'm Lee Waithaka Komu 👋
 
-🎓 BSc Applied Statistics with Programming (Graduating 2025)  
+🎓 BSc Applied Statistics with Programming (Graduated 2025)  
 📊 Aspiring Data Analyst passionate about transforming data into meaningful insights.
 
 ---
